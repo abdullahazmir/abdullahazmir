@@ -1,9 +1,9 @@
 <img width="3780" height="1890" alt="Abdullah Azmir" src="https://github.com/user-attachments/assets/7618700e-2608-4ca2-8847-686028bde651" />
 
 <h1 align="center">I'm Abdullah Azmir</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate frontend developer from Bangladesh, exploring web development</h3>
 
-- 📫 How to reach me **ab.azmir@gmail.com**
+- 📫 How to reach me::: **ab.azmir@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
