@@ -21,6 +21,13 @@ I focus on building responsive, user-friendly, and real-world applications.
 </p>
 
 <img width="1890" height="863" alt="image-my-project" src="https://github.com/user-attachments/assets/d557ac7a-441f-477b-a2ee-06b368f48b17" />
+<hr/>
+
+<h3 align="left">Projects Preview:</h3>
+<p>
+Here are some of my recent projects showcasing my skills in React, and Node.js.
+I focus on building responsive, user-friendly, and real-world applications.
+</p>
 
 <img width="1862" height="882" alt="image" src="https://github.com/user-attachments/assets/cd21babc-c30e-4fc9-8bfb-992e73df522c" />
 
